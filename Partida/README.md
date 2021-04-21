@@ -23,10 +23,13 @@ O código deve ser disponibilizado no GitHub.
 ## Solução
 
 * Desenvolvido em .Net Core 5.0
-* Banco de dados MySql, TimedDB
+* Banco de dados MySql
+  * ![Modelo TimeDB](./Partida/modelo.PNG?raw=true "TimeDB")
 
 ## Execução
 
 * Versão em execução em servidor EC2, na AWS, OS ubuntu 18.04
 * Link [TorneioREST](https://torneio.ddns.net)
 * Documentação simples dos endpoint em **swagger**
+
+![Swagger](./Partida/torneio_swagger.PNG?raw=true "Swagger")
