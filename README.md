@@ -23,8 +23,8 @@ O código deve ser disponibilizado no GitHub.
 ## Solução
 
 * Desenvolvido em .Net Core 5.0
-* Banco de dados MySql, TimedDB
-
+* Banco de dados MySql 
+  * ![TimedDB](./Partida/modelo.PNG?raw=true "TimedDB")
 ## Execução
 
 * Versão em execução em servidor EC2, na AWS, OS ubuntu 18.04
